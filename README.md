@@ -29,7 +29,7 @@ pixels.
 </div>
 <div style="display:flex" class="Mobile_Screen_Width">
   
-  <img align="left" width="50em" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
-  <img align="right" width="50em" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
+  <img align="left" width="50vw" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
+  <img align="right" width="50vw" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
 
 </div>
