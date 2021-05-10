@@ -9,6 +9,14 @@ The page made is responsive in manner, it arranges itself based on the size of t
 so as to ensure the page is clear and fits in the screen itslef instead of going beyond the visible
 pixels.
 
+
+<img aling="left" height="40%" width="auto" src="https://user-images.githubusercontent.com/58340159/117699778-d8071480-b1e2-11eb-8e0c-8a6d00ec3468.png">
+<img aling="left" height="40%" width="auto" src="https://user-images.githubusercontent.com/58340159/117699786-da696e80-b1e2-11eb-84b6-a3ad3958cd52.png">
+
+
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
+<img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
+
 ![Screenshot_20210510_224713](https://user-images.githubusercontent.com/58340159/117699778-d8071480-b1e2-11eb-8e0c-8a6d00ec3468.png)
 ![Screenshot_20210510_224720](https://user-images.githubusercontent.com/58340159/117699786-da696e80-b1e2-11eb-84b6-a3ad3958cd52.png)
 ![Screenshot_20210510_224724](https://user-images.githubusercontent.com/58340159/117699790-db9a9b80-b1e2-11eb-955a-999471fc9d37.png)
@@ -18,5 +26,3 @@ pixels.
 ![Screenshot_20210510_224811](https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png)
 ![Screenshot_20210510_224815](https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png)
 
-<img align="left" width="150" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
-<img align="right" width="150" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
