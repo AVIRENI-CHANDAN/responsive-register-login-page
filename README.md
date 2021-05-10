@@ -10,8 +10,12 @@ so as to ensure the page is clear and fits in the screen itslef instead of going
 pixels.
 
 
-<img aling="left" width="40%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699778-d8071480-b1e2-11eb-8e0c-8a6d00ec3468.png">
-<img aling="left" width="40%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699786-da696e80-b1e2-11eb-84b6-a3ad3958cd52.png">
+<div style="display:flex">
+  
+<img aling="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699778-d8071480-b1e2-11eb-8e0c-8a6d00ec3468.png">
+<img aling="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699786-da696e80-b1e2-11eb-84b6-a3ad3958cd52.png">
+  
+</div>
 
 
 <img align="left" width="40%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
