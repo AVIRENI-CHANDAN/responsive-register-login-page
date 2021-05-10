@@ -17,8 +17,8 @@ pixels.
 </div>
 <div style="display:flex" class="Computer_Screen_Half">
   
-  <img aling="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699790-db9a9b80-b1e2-11eb-955a-999471fc9d37.png" style="display:inline;">
-  <img aling="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699792-dc333200-b1e2-11eb-93d0-50502dd3a002.png" style="display:inline;">
+  <img aling="left" width="auto" height="auto" src="https://user-images.githubusercontent.com/58340159/117699790-db9a9b80-b1e2-11eb-955a-999471fc9d37.png" style="display:inline;">
+  <img aling="left" width="auto" height="auto" src="https://user-images.githubusercontent.com/58340159/117699792-dc333200-b1e2-11eb-93d0-50502dd3a002.png" style="display:inline;">
 
 </div>
 <div style="display:flex" class="Tablet_Screen_Width">
