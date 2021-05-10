@@ -23,13 +23,13 @@ pixels.
 </div>
 <div style="display:flex" class="Tablet_Screen_Width">
   
-  <img aling="left" width="45%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699798-dccbc880-b1e2-11eb-8c7c-2b9e77469cc8.png" style="display:inline;">
-  <img aling="left" width="45%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699802-ddfcf580-b1e2-11eb-8019-996c7ce7f94b.png" style="display:inline;">
+  <img aling="left" width="49%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699798-dccbc880-b1e2-11eb-8c7c-2b9e77469cc8.png" style="display:inline;">
+  <img aling="left" width="49%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699802-ddfcf580-b1e2-11eb-8019-996c7ce7f94b.png" style="display:inline;">
 
 </div>
 <div style="display:flex" class="Mobile_Screen_Width">
   
-  <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
-  <img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
+  <img align="left" width="49%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699806-de958c00-b1e2-11eb-9a2d-a7e59ec7a2b4.png">
+  <img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/58340159/117699807-df2e2280-b1e2-11eb-99eb-227ad02f6680.png">
 
 </div>
